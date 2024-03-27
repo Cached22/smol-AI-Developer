@@ -2,7 +2,7 @@ import sys
 import time
 
 from smol_dev.prompts import plan, specify_file_paths, generate_code_sync
-from smol_dev.utils 
+from smol_dev.utils import generate_folder, write_file
 import argparse
 
 # model = "gpt-3.5-turbo-0613"
