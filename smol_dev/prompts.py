@@ -1,7 +1,6 @@
 import asyncio
 import re
 import time
-from typing import List, Optional, Callable, Any
 
 import openai
 from openai_function_call import openai_function
