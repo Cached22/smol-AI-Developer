@@ -9,7 +9,7 @@ venv/
 # Ignore everything in the generated directory
 /generated/*
 
-# Don't ignore .gitkeep files in the directory
+# Don't ignore .gitkeep files in the generated directory
 !/generated/.gitkeep
 
 workspace
