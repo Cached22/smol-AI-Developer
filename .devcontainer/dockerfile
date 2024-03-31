@@ -1,4 +1,4 @@
-# syntax=docker/dockerfile:1   # Specifies Dockerfile version to use. In this case, version 1.
+
 
 FROM python:3.9-slim-buster   # Defines the base image to use for your Docker image. Here, it's the slim-buster version of the official Python 3.9 image.
 
