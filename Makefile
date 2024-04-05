@@ -1,4 +1,4 @@
-.PHONY: clean build publish
+
 
 build: clean
 	python -m pip install --upgrade --quiet setuptools wheel twine
